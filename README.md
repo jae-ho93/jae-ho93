@@ -63,8 +63,3 @@
 
 <br>
 
-<h2 align="left">🏅 Stats</h2>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jae-ho93&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jae-ho93&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" height="165" />
-</p>
