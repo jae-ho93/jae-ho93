@@ -1,21 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=My+name+is+Kim+Jaeho;Nice+to+meet+you"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
-
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=jae-ho93&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/jae-ho93"
-  width="500"
-  height="200"
+  width="600"
+  height="300"
 />
 </a>
 
