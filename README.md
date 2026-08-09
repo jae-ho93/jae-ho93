@@ -5,7 +5,7 @@
 
 <!-- 타이핑 애니메이션 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8D58BF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Jae-ho;React+Native+%26+Django+Developer;Building+things+with+Go+%2B+AI+%F0%9F%A4%96;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8D58BF&center=true&vCenter=true&width=600&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%9E%AC%ED%98%B8%EC%9E%85%EB%8B%88%EB%8B%A4;%EB%A7%8C%EB%93%A4%EA%B3%A0+%EC%8B%B6%EC%9D%80+%EA%B1%B4+%EB%8B%A4+%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EB%8A%94+%ED%83%80%EC%9E%85+%F0%9F%9A%80;%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EA%B0%80+%EC%9D%88%EC%9C%BC%EB%A9%B4+%EC%9D%BC%EB%8B%A8+%EC%BD%94%EB%93%9C%EB%B6%80%ED%84%B0+%EC%B9%A0%EB%8B%88%EB%8B%A4+%F0%9F%92%BB;%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B2%83%EC%9D%84+%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br>
@@ -50,6 +50,15 @@
 ### 🤖 AI / ML
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+
+### 📊 Data Analysis
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 
 ### ⚙️ DevOps & Tools
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
