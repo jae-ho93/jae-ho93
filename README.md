@@ -10,15 +10,12 @@
     />
   </a>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
-</div>
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=jae-ho93&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/jae-ho93"
-  width="600"
-  height="300"
+  width="500"
+  height="200"
 />
 </a>
 
