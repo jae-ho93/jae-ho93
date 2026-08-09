@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 웨이브 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:8D58BF&height=220&section=header&text=Jae-ho's%20Dev%20Space&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%7C%20Backend%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:8D58BF&height=220&section=header&text=Jae-ho's%20Dev%20Space&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%7C%20Fullstack%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- 타이핑 애니메이션 -->
 <a href="https://git.io/typing-svg">
@@ -57,23 +57,6 @@
 ### 💻 Language
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5BBA,100:8D58BF&height=3&width=100%" />
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jae-ho93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8D58BF&icon_color=6D5BBA&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jae-ho93&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8D58BF&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jae-ho93&theme=tokyonight&hide_border=true&background=0D1117&ring=8D58BF&fire=8D58BF&currStreakLabel=8D58BF" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jae-ho93&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8D58BF&line=6D5BBA&point=ffffff" width="95%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5BBA,100:8D58BF&height=3&width=100%" />
