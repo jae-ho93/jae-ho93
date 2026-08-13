@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 웨이브 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:8D58BF&height=220&section=header&text=Jae-ho's%20Dev%20Space&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%7C%20Datae%20%7C%20Fullstack%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:8D58BF&height=220&section=header&text=Jae-ho's%20Dev%20Space&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%7C%20Data%20%7C%20Fullstack%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 
 <br>
